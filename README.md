@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Bartosz, a passionate developer with a love for coding and problem-solving. Here, you'll find a collection of my projects, from small personal experiments to more complex applications. I focus on writing clean, efficient code and always strive to learn and improve.<br><br>Feel free to explore my repositories, contribute, or reach out if you have any questions or ideas to share. Let's code together! 🚀</p>
+<p align="left">I'm Bartosz, a passionate developer with a love for coding and problem-solving. Here, you'll find a some of my projects. I focus on writing clean, efficient code and always strive to learn and improve.<br><br>Feel free to explore my repositories, contribute, or reach out if you have any questions or ideas to share. Let's code together! 🚀</p>
 
 ###
 
