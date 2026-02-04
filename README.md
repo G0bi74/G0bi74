@@ -46,19 +46,6 @@ I'm a passionate software developer who loves turning ideas into reality through
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G0bi74&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=G0bi74&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0bi74&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
