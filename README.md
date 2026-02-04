@@ -1,48 +1,80 @@
-<h1 align="left">Hi there! 👋</h1>
+<div align="center">
 
-###
+# 👋 Hello, I'm Bartosz!
 
-<img align="right" height="200" src="https://64.media.tumblr.com/293ba2cffb7c8eff4eacc95020aa5e0d/tumblr_nw8tq83v2S1uj87i4o1_540.gifv"  />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;Problem+Solver;Code+Enthusiast)](https://git.io/typing-svg)
 
-###
-
-<p align="left">I'm Bartosz, a passionate developer with a love for coding and problem-solving. Here, you'll find a some of my projects. I focus on writing clean, efficient code and always strive to learn and improve.<br><br>Feel free to explore my repositories, contribute, or reach out if you have any questions or ideas to share. Let's code together! 🚀</p>
-
-
-
-<br clear="both">
-
-<div align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
+---
 
-<div align="right">
-  <a href="https://discord.com/users/gobi74" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://profiles.google.com/golczewski74@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+## 🚀 About Me
+
+I'm a passionate software developer who loves turning ideas into reality through code. With a strong foundation in multiple programming languages and a curiosity for learning new technologies, I enjoy building projects that solve real-world problems.
+
+💡 **What I do:**
+- 💻 Develop clean, efficient, and scalable solutions
+- 🎯 Focus on writing maintainable code
+- 🌱 Constantly learning and experimenting with new technologies
+- 🤝 Open to collaboration and contributing to open-source projects
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=G0bi74&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=G0bi74&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0bi74&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
-###
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/gobi74)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:golczewski74@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+⭐️ From [G0bi74](https://github.com/G0bi74) | Feel free to explore my repositories and reach out!
+
+</div>
